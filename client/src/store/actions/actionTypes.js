@@ -1,0 +1,11 @@
+export const ADD_EMPLOYEE = 'ADD_EMPLOYEE'
+export const DELETE_EMPLOYEE = 'DELETE_EMPLOYEE'
+export const EDIT_EMPLOYEE = 'EDIT_EMPLOYEE'
+export const GET_EMPLOYEES = 'GET_EMPLOYEES'
+
+export const ADD_CHATBOT = 'ADD_CHATBOT'
+export const EDIT_CHATBOT = 'EDIT_CHATBOT'
+export const DELETE_CHATBOT = 'DELETE_CHATBOT'
+export const SELECT_CHATBOT = 'SELECT_CHATBOT'
+
+export const ADD_TEST = 'ADD_TEST'
