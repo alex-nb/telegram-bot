@@ -17,7 +17,7 @@
     "https-proxy-agent": "^2.2.1",
     "mongoose": "^5.5.13",
     "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "telegraf": "^3.30.1",
     "tunnel": "0.0.6"
   },
