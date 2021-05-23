@@ -14,7 +14,7 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "http-proxy-agent": "^2.1.0",
-    "https-proxy-agent": "^2.2.1",
+    "https-proxy-agent": "^2.2.3",
     "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "pug": "3.0.1",
